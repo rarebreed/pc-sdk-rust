@@ -1,0 +1,15 @@
+# BenefitAssessmentJob
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | Option<**String**> | The globally unique identifier for the object. | [optional][readonly]
+**state** | Option<**String**> | State of the benefit assessment job. | [optional][readonly]
+**date_created** | Option<**String**> | Creation Date of the benefit assessment job. Date time is represented as an ISO-8601 string. For example: yyyy-MM-ddTHH:mm:ss[.mmm]Z | [optional][readonly]
+**date_modified** | Option<**String**> | Modified Date of the benefit assessment job. Date time is represented as an ISO-8601 string. For example: yyyy-MM-ddTHH:mm:ss[.mmm]Z | [optional][readonly]
+**self_uri** | Option<**String**> | The URI for this object | [optional][readonly]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

@@ -1,0 +1,12 @@
+# ContactListFilterClause
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**filter_type** | Option<**String**> | How to join predicates together. | [optional]
+**predicates** | Option<[**Vec<crate::models::ContactListFilterPredicate>**](ContactListFilterPredicate.md)> | Conditions to filter the contacts by. | [optional]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

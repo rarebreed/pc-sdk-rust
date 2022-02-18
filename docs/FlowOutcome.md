@@ -1,0 +1,16 @@
+# FlowOutcome
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | Option<**String**> | The flow outcome identifier | [optional]
+**name** | **String** | The flow outcome name. | 
+**division** | Option<[**crate::models::WritableDivision**](WritableDivision.md)> |  | [optional]
+**description** | Option<**String**> |  | [optional]
+**current_operation** | Option<[**crate::models::Operation**](Operation.md)> |  | [optional]
+**self_uri** | Option<**String**> | The URI for this object | [optional][readonly]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
